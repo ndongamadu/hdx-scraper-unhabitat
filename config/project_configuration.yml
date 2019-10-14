@@ -1,0 +1,7 @@
+# Collector specific configuration
+base_url: "http://urbandata.unhabitat.org/wp-content/themes/urbandatatheme/urbandata/download.php?type=countries&format=csv"
+
+#http://urbandata.unhabitat.org/data-country/?countries=AW
+#http://urbandata.unhabitat.org/wp-content/themes/urbandatatheme/urbandata/download.php?type=countries&format=csv&code=AW
+
+#http://urbandata.unhabitat.org/explore-data/?countries=SN&indicators=death_per_1000_live_births,percentage_of_international_migrants,pop_urban_percentage,rural_population

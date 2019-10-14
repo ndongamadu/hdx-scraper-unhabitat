@@ -1,0 +1,11 @@
+owner_org: "unhabitat-guo"
+author: "unhabitat-guo"
+license_id: "UN-Habitat’s urban datasets are made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/"
+caveats: "Read more at http://urbandata.unhabitat.org/aboutourdata-termsofuse/"
+methodology: "Other"
+methodology_other: "Urban statistics are collected through household surveys and censuses conducted by national statistics authorities. Global Urban Observatory team analyses and compiles urban indicators statistics from surveys and censuses.  Additionally, Local urban observatories  collect, compile and analyze urban data for national policy development. Population statistics are produced by the United Nations Department of Economic and Social Affairs, World Urbanization Prospects."
+maintainer: "hdx-amadou"
+dataset_source: "UNHABITAT"
+package_creator: "hdx-amadou"
+private: False
+notes: "The urban indicators data available here are analyzed, compiled and published by UN-Habitat’s Global Urban Observatory which supports governments, local authorities and civil society organizations to develop urban indicators, data and statistics. Urban statistics are collected through household surveys and censuses conducted by national statistics authorities. Global Urban Observatory team analyses and compiles urban indicators statistics from surveys and censuses.  Additionally, Local urban observatories  collect, compile and analyze urban data for national policy development. Population statistics are produced by the United Nations Department of Economic and Social Affairs, World Urbanization Prospects."
